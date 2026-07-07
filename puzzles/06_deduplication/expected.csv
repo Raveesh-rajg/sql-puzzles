@@ -1,0 +1,4 @@
+customer_id,record_id,email,city,updated_at
+101,7,a@newer.com,Jersey City,2026-02-01 09:00:00
+102,2,b@x.com,Boston,2026-01-15 12:00:00
+103,6,c@y.com,Chicago,2026-01-20 10:00:00

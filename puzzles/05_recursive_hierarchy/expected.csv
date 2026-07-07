@@ -1,0 +1,8 @@
+name,depth,path,total_reports
+Dana,1,Dana,6
+Alex,2,Dana > Alex,3
+Chen,3,Dana > Alex > Chen,0
+Priya,3,Dana > Alex > Priya,1
+Lee,4,Dana > Alex > Priya > Lee,0
+Sam,2,Dana > Sam,1
+Kim,3,Dana > Sam > Kim,0

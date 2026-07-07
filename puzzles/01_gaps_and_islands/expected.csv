@@ -1,0 +1,4 @@
+user_id,longest_streak,streak_start,streak_end
+alice,5,2026-01-05,2026-01-09
+bob,1,2026-01-01,2026-01-01
+carol,5,2026-02-10,2026-02-14

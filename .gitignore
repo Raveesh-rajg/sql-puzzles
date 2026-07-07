@@ -1,0 +1,4 @@
+__pycache__/
+*.duckdb
+puzzles/08_query_optimization/results/*.tmp
+.DS_Store
