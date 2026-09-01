@@ -1,4 +1,4 @@
-# SQL Puzzles — a study guide with runnable proofs
+# SQL Systems & Performance Casebook | Runnable edge cases
 
 Eight genuinely hard SQL problems, each with a schema, sample data, a verified
 solution, and a written explanation of the approach and its alternatives. Every
