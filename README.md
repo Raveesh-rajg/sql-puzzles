@@ -55,3 +55,7 @@ Read the problem statement in each puzzle's README, write your own solution agai
 `setup.sql` before opening `solution.sql`, then diff your approach against the
 explanation. The sample data in every puzzle deliberately contains the edge case
 that breaks the obvious first attempt — if your query passes, you handled it.
+
+## Verification scope
+
+All eight exercises were rerun against DuckDB during the repository audit. The optimization exercise also verifies equal results on a generated 5-million-row fact table. Timings depend on hardware and caching; this is not a Snowflake performance benchmark.

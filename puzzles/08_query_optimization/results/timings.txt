@@ -1,6 +1,6 @@
 rows in fact table : 5,000,000
-naive (join->agg)  : 19.1 ms (median of 5)
-optimized (agg->join): 12.5 ms (median of 5)
-speedup            : 1.54x
+naive (join->agg)  : 12.1 ms (median of 5)
+optimized (agg->join): 7.5 ms (median of 5)
+speedup            : 1.61x
 note: absolute numbers vary by machine; the EXPLAIN plans in this
 directory show WHY — compare rows flowing into the join in each plan.
